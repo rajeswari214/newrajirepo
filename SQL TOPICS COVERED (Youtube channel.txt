@@ -1,0 +1,52 @@
+SQL TOPICS COVERED :(Youtube channel:Ishra Data Labs):
+1.How to Create and Connect to the Database | Explained in Telugu | SQL Server Telugu Tutorials
+2.How to create a table in SQL Server in telugu | Explained in Telugu | SQL Server Telugu Tutorials
+3.How to Insert Rows into a Table in SQL SERVER | Expalined in Telugu | SQL Server Telugu Tutorials
+4.How to Update the Rows in SQL Server | Explained in Telugu 
+5.How to Delete the rows in a table using Delete Command 
+6.DELETE VS TRUNCATE IN SQL SERVER 
+7.What is PRIMARY KEY in SQL SERVER
+8.UNIQUE KEY VS PRIMARY KEY 
+9.What is Foreign Key in SQL Server
+10.What is GROUP BY in SQL Server 
+11.WHERE VS HAVING in SQL SERVER 
+12.TOP Clause in SQL Server 
+13.Aliases in SQL Server 
+14.What is DISTINCT Clause in SQL Server
+15.ORDER BY in SQL Server
+16.BETWEEN Operator in SQL Server 
+17.IN Operator in SQL Server
+18.UNION VS UNIONALL in SQL Server 
+19.Date functions in SQL Server
+20.Views in SQL Server
+21.COUNT VS COUNT(*) In SQL Server 
+22.What is SCHEMA in SQL Server 
+23.CASE Statement in SQL Server
+24.SQL Query Logical Execution in SQL Server 
+25.What is Normalization in SQL
+26.Joins in SQL Server
+27.What is Inner Join in SQL Server
+28.What is Left Join/ Left Outer Join
+29.What is Right Join/Right Outer Join in SQL Server
+30.What is Full Join/Full Outer Join in SQL Server
+31.How to Import/Load Excel data into SQL Server
+32.How to Load Text Data into SQL Server
+33.How to Find the Duplicate Rows in Table in SQL Server
+34.How to find the Nth Highest Salary in SQL Server 
+35.How to find the Employee's Manager name
+36.How to Swap the Column Values in SQL Server
+37.How to find the Duplicate Emails in SQL Server Tables
+38.SQL Query to find the Customers who never Ordered
+39.SQL Query to find Department wise highest Salary
+40.SQL Query to find the Employee Reference 
+
+BE1OX SQL MASTERCLASS
+41.RDBMS Introduction
+42.Functions
+4 Topics 
+Text and Number Function
+Data Function
+Group Function
+Window Function
+43.Sub Queries
+44.
